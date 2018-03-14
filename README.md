@@ -16,4 +16,4 @@
 
 ## API
 
-Вся документация о проекте хранится [тут](https://docs.google.com/document/d/1CatyHWceZdFCwMoLhfQ2FF7lcIpd7PEuDdncLi0nX4M/edit "API Documentation")
+Вся документация об API хранится [тут](https://docs.google.com/document/d/1CatyHWceZdFCwMoLhfQ2FF7lcIpd7PEuDdncLi0nX4M/edit "API Documentation")
